@@ -1,5 +1,5 @@
 # Moderation Guidelines
-Welcome to the justloliehh Discord Moderation guidelines! This document aims to clarify the rules and procedures used within the discord by the moderation staff. Please do keep in mind that any and all content of this document are mere guidelines to strive for and are allowed to be overruled on a case-by-case basis if deemed appropriate by staff.
+Welcome to the Justloliehh Discord Moderation guidelines! This document aims to clarify the rules and procedures used within the discord by the moderation staff. Please do keep in mind that any and all content of this document are mere guidelines to strive for and are allowed to be overruled on a case-by-case basis if deemed appropriate by staff.
 
 ## Channels & Usage
 
@@ -21,19 +21,18 @@ When warning or banning any individual or group please keep in mind the followin
 ### Template Staff-Update
 Template
 ```yaml
-User: <discord username / alias>
+User: <discord handle>
 Reason: <reason>
 Action-Taken: <message-removed / banned / warned>
-Evidence: <textual or linking evidence to the infraction>
+Evidence: <linking evidence to the infraction>
 ```
 Example
 ```yaml
-User: Lucemans (Luc)
+User: Lucemans#2066
 Reason: Innapropriate Message
 Action-Taken: Message-Removed
 Evicence: ""
 ```
-
 
 ## Misposting
 This section aims to be a set of guidelines on how to deal with users who post content in the wrong channels such as but not limited to: having game-related conversations in a non-game-related channel, posting media in non-media channels etc.
@@ -57,13 +56,28 @@ THIS SECTION IS INCOMPLETE, PLEASE CONSULT STAFF ON WHAT ACTION TO TAKE
 ### NSFW Staff-Update
 Template
 ```yaml
-User: <discord username / alias>
+User: <discord handle>
 Reason: NSFW Content
 Action-Taken: <message-removed / banned / warned>
 ```
 Example
 ```yaml
-User: Lucemans (Luc)
+User: Lucemans#2066
 Reason: NSFW Content
 Action-Taken: Message-Removed
+```
+
+## Channel / Role Modifications
+
+
+### Template
+```yaml
+Made-by: <discord handle>
+Action-Taken: <channel-removed / permissions-added / channel-added>
+Reason: <reasoning>
+```
+```yaml
+Made-by: Lucemans#2066
+Action-Taken: channel-added
+Reasoning: Added #food, in coordination with the suggestions and through popular request.
 ```
