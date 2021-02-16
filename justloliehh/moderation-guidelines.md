@@ -17,7 +17,6 @@ When warning or banning any individual or group please keep in mind the followin
 * Appeals must go through DM's with the original staff-member that issues the warning / ban
 * Staff must be kept informed through the usage of the [#staff-updates]() channel
 
-
 ### Template Staff-Update
 Template
 ```yaml
@@ -81,3 +80,14 @@ Made-by: Lucemans#2066
 Action-Taken: channel-added
 Reasoning: Added #food, in coordination with the suggestions and through popular request.
 ```
+
+## Voice Channel Limits
+When pertaining to Voice Channels (further referred to by the term VC), the following guidelines are to be respected.
+
+Here are a few things to avoid:
+* Avoid Unnecessary moving of others then yourself
+* Avoid Joining rooms that have reached or are over their user limit
+* Move anyone that is asleep over to the [#sleepy-teepy]() channel or (if they normally dont have access) to AFK, and otherwise you are free to disconnect them if deemed necessary for the respective individuals privacy
+* Keep all Moderation related content in the designated channels.
+* Whenever an offense over voice is made, it is highly recommended that the offending party is taken aside into a private voice channel by the moderator to be informed of their infraction and about the procedures that follow.
+* If within the first few seconds of joining a VC you are informed that it is a private conversation, it is requested that you leave the conversation until further notice.
